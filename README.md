@@ -2,3 +2,5 @@
 ## 書きたいこと  
 - WSL
 - gotty
+- sed
+- awk
